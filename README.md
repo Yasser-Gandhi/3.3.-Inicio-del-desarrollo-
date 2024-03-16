@@ -1,16 +1,25 @@
-# welcome_to_flutter
+# Bienvenido a Flutter
 
-A new Flutter project.
+Esta aplicación Flutter muestra un simple mensaje "Hola Mundo" en el centro de la pantalla. Sirve como una introducción básica al desarrollo con Flutter y proporciona un punto de partida para construir aplicaciones más complejas.
 
-## Getting Started
+## Capturas de Pantalla
 
-This project is a starting point for a Flutter application.
+![Captura de Pantalla](screenshots/hello_world.png)
 
-A few resources to get you started if this is your first Flutter project:
+## Cómo Ejecutar
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Para ejecutar esta aplicación Flutter, sigue estos pasos:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Asegúrate de tener Flutter instalado en tu sistema. Si no lo tienes, consulta la documentación oficial de Flutter para obtener instrucciones de instalación.
+2. Clona este repositorio en tu máquina local.
+3. Abre el proyecto en tu IDE o editor de texto preferido.
+4. Conecta tu dispositivo o emulador.
+5. Ejecuta el proyecto utilizando el comando `flutter run`.
+
+## Retroalimentación
+
+Si tienes algún comentario o sugerencia, no dudes en abrir un issue o crear un pull request. ¡Agradecemos las contribuciones de la comunidad!
+
+## Licencia
+
+Este proyecto está licenciado bajo la [Licencia MIT](LICENSE).
